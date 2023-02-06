@@ -1,4 +1,4 @@
-package yanolja.demo
+package yanolja_codility.demo
 
 fun main() {
 //    println(solution(intArrayOf(1, 2, 3)))
